@@ -1,0 +1,17 @@
+{
+    "name": "ivene/passport",
+    "description": "PassPosrt",
+    "authors": [
+        {
+            "name": "Yao.Yao",
+            "email": "yao_ivene@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ivene\\Passport\\":"src/"
+        }
+    }
+}
